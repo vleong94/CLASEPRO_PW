@@ -1,0 +1,38 @@
+# Compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de compilación
+/out/
+/target/
+/build/
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos de configuración específicos del usuario
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Cache de IntelliJ
+/.gradle/
+/.gradle/
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
